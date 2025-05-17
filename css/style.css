@@ -5770,3 +5770,9 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* my styles */
+.about_area p{
+  text-align: justify;
+}
