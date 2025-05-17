@@ -5953,13 +5953,13 @@ h6 {
   font-weight: bolder;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .slicknav_btn {
     margin-top: 8px !important;
   }
 
   .my-about{
     font-size: 16px!important;
-    padding: 0 15px;
+    padding: 0;
   }
 }
