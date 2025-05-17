@@ -5992,6 +5992,10 @@ html {
   margin-top: 5px;
 }
 
+.my-register-btn{
+  margin: auto !important;
+}
+
 .myevent-time{
   margin-bottom: 12px;
 }
@@ -6027,5 +6031,14 @@ my-contact-us-info{
   .my-about{
     font-size: 16px!important;
     padding: 0 15px;
+  }
+
+  .about_info{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .program_details_area{
+    margin-top: -85px !important;
   }
 }
