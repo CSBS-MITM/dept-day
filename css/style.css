@@ -5967,8 +5967,16 @@ html {
   font-family: Montserrat;
 }
 
+.slider-date{
+  color: orange !important;
+}
+
 .my-logo{
   color: white !important;
+}
+
+.registration-open{
+  color: orange !important;
 }
 
 .register-now-strong{
@@ -5986,6 +5994,10 @@ html {
   margin-bottom: 12px;
 }
 
+.my-event-name{
+  color: orange !important;
+}
+
 .my-event-desc{
   font-weight: lighter !important;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -5993,6 +6005,12 @@ html {
 
 .my-contact-us{
   text-align: start !important;
+  color: orange;
+}
+
+my-contact-us-info{
+  text-align: start !important;
+  color: white;
 }
 
 .my-contact-info{
