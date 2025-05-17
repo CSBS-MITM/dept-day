@@ -5991,7 +5991,13 @@ html {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.my-contact-us{
+  text-align: start !important;
+}
 
+.my-contact-info{
+  color: orange;
+}
 
 @media (max-width: 768px) {
   .slicknav_btn {
