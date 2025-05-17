@@ -5988,6 +5988,8 @@ html {
   font-weight: bold;
   color: orange;
   font-size: larger !important;
+
+  margin-top: 5px;
 }
 
 .myevent-time{
@@ -6005,7 +6007,7 @@ html {
 
 .my-contact-us{
   text-align: start !important;
-  color: orange;
+  color: orange !important;
 }
 
 my-contact-us-info{
