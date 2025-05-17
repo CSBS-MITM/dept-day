@@ -5956,7 +5956,7 @@ html {
   text-align: justify;
 }
 
-.my-subtitle{
+.my-subtitle {
   font-weight: 200 !important;
 }
 
@@ -5967,24 +5967,24 @@ html {
   font-family: Montserrat;
 }
 
-.slider-date{
+.slider-date {
   color: orange !important;
 }
 
-.my-logo{
+.my-logo {
   color: white !important;
 }
 
-.registration-open{
+.registration-open {
   color: orange !important;
 }
 
-.register-now-strong{
+.register-now-strong {
   font-weight: bold;
   color: red;
 }
 
-.winners-cash-prize{
+.winners-cash-prize {
   font-weight: bold;
   color: orange;
   font-size: larger !important;
@@ -5992,35 +5992,46 @@ html {
   margin-top: 5px;
 }
 
-.my-register-btn{
+.my-register-btn {
   margin: auto !important;
 }
 
-.myevent-time{
+.myevent-time {
   margin-bottom: 12px;
 }
 
-.my-event-name{
+.my-event-name {
   color: orange !important;
 }
 
-.my-event-desc{
+.my-event-desc {
   font-weight: lighter !important;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.my-contact-us{
+.my-contact-us {
   text-align: start !important;
   color: orange !important;
 }
 
-my-contact-us-info{
+my-contact-us-info {
   text-align: start !important;
   color: white;
 }
 
-.my-contact-info{
+.my-contact-info {
   color: orange;
+}
+
+.footer-dept-name {
+  display: flex;
+}
+
+.dept-logo {
+  display: inline-block;
+  height: 70px !important;
+  margin-right: 30px;
+  border-radius: 50%;
 }
 
 @media (max-width: 768px) {
@@ -6028,17 +6039,22 @@ my-contact-us-info{
     margin-top: 8px !important;
   }
 
-  .my-about{
-    font-size: 16px!important;
+  .my-about {
+    font-size: 16px !important;
     padding: 0 15px;
   }
 
-  .about_info{
+  .about_info {
     display: flex;
     flex-direction: column;
   }
 
-  .program_details_area{
+  .program_details_area {
     margin-top: -140px !important;
+  }
+
+  .dept-logo {
+    margin-right: 5px;
+    height: 60px !important;
   }
 }
