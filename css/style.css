@@ -5943,7 +5943,15 @@ h6 {
 /*# sourceMappingURL=style.css.map */
 
 
+
+
+/* =============================================== */
 /* my styles */
+/* =============================================== */
+html {
+  scroll-behavior: smooth;
+}
+
 .about_area p {
   text-align: justify;
 }
@@ -5967,6 +5975,23 @@ h6 {
   font-weight: bold;
   color: red;
 }
+
+.winners-cash-prize{
+  font-weight: bold;
+  color: orange;
+  font-size: larger !important;
+}
+
+.myevent-time{
+  margin-bottom: 12px;
+}
+
+.my-event-desc{
+  font-weight: lighter !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
 
 @media (max-width: 768px) {
   .slicknav_btn {
