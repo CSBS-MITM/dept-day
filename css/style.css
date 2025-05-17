@@ -6025,6 +6025,9 @@ my-contact-us-info {
 
 .footer-dept-name {
   display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
 }
 
 .dept-logo {
@@ -6054,7 +6057,7 @@ my-contact-us-info {
   }
 
   .dept-logo {
-    margin-right: 5px;
+    margin-right: 21px;
     height: 60px !important;
   }
 }
